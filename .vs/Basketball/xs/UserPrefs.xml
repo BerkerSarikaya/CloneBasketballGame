@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{6754093B-20CD-C03B-0D64-4C07D0F72E3A}|">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ba3fb2b3-9c63-4980-aba3-46e6647e3516" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scrıpts/Platform_Power.cs" Line="16" Column="1" />
+      <File FileName="Assets/GameManager.cs" Line="31" Column="1" />
+      <File FileName="Assets/Scrıpts/Ball.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scrıpts/BasketBigger.cs" Line="1" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Basketball" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
